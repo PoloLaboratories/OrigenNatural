@@ -19,18 +19,18 @@ Requirements for initial release. Each maps to roadmap phases.
 
 - [ ] **SERV-01**: Sueroterapia (IV Therapy) page — description, conditions treated, benefits, FAQ
 - [ ] **SERV-02**: Terapia Neural page — description, conditions treated, benefits, FAQ
-- [ ] **SERV-03**: Terapia de Campos Magnéticos page — description, conditions treated, benefits, FAQ
-- [ ] **SERV-04**: Homeopatía page — description, conditions treated, benefits, FAQ
+- [ ] **SERV-03**: Terapia de Campos Magneticos page — description, conditions treated, benefits, FAQ
+- [ ] **SERV-04**: Homeopatia page — description, conditions treated, benefits, FAQ
 - [ ] **SERV-05**: Acupuntura page — description, conditions treated, benefits, FAQ
 - [ ] **SERV-06**: Fitoterapia page — description, conditions treated, benefits, FAQ
-- [ ] **SERV-07**: Quiropráctica page — description, conditions treated, benefits, FAQ
+- [ ] **SERV-07**: Quiropractica page — description, conditions treated, benefits, FAQ
 - [ ] **SERV-08**: Fisioterapia page — description, conditions treated, benefits, FAQ
-- [ ] **SERV-09**: Asesoría Nutricional page — description, conditions treated, benefits, FAQ
+- [ ] **SERV-09**: Asesoria Nutricional page — description, conditions treated, benefits, FAQ
 - [ ] **SERV-10**: Farmacia page — description, services offered
 
 ### About & Team
 
-- [ ] **ABOUT-01**: Three pillars section (Escuchar, Guiar, Acompañar) with visual presentation
+- [ ] **ABOUT-01**: Three pillars section (Escuchar, Guiar, Acompanar) with visual presentation
 - [ ] **ABOUT-02**: Doctor profiles with photo, credentials, specialties (5 team members)
 - [ ] **ABOUT-03**: Facility photo gallery showcasing clinic spaces
 
@@ -46,7 +46,7 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Conditions Pages (SEO)
 
-- [ ] **COND-01**: Condition landing pages for key health issues (Migraña, Dolor de Espalda, Artritis, Gastritis, Ansiedad, Estrés) linking to relevant services
+- [ ] **COND-01**: Condition landing pages for key health issues (Migrana, Dolor de Espalda, Artritis, Gastritis, Ansiedad, Estres) linking to relevant services
 
 ### Compliance & Trust
 
@@ -62,7 +62,7 @@ Requirements for initial release. Each maps to roadmap phases.
 
 - [ ] **TECH-01**: Full Spanish/English bilingual support with language switcher (TranslatePress)
 - [ ] **TECH-02**: Mobile-first responsive design (Astra + Elementor)
-- [ ] **TECH-03**: SEO optimization with Rank Math (local Bogotá focus, proper hreflang tags)
+- [ ] **TECH-03**: SEO optimization with Rank Math (local Bogota focus, proper hreflang tags)
 - [ ] **TECH-04**: SSL certificate active (GoDaddy provided)
 
 ## v2 Requirements
@@ -110,43 +110,49 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| HOME-01 | TBD | Pending |
-| HOME-02 | TBD | Pending |
-| HOME-03 | TBD | Pending |
-| HOME-04 | TBD | Pending |
-| HOME-05 | TBD | Pending |
-| SERV-01 | TBD | Pending |
-| SERV-02 | TBD | Pending |
-| SERV-03 | TBD | Pending |
-| SERV-04 | TBD | Pending |
-| SERV-05 | TBD | Pending |
-| SERV-06 | TBD | Pending |
-| SERV-07 | TBD | Pending |
-| SERV-08 | TBD | Pending |
-| SERV-09 | TBD | Pending |
-| SERV-10 | TBD | Pending |
-| ABOUT-01 | TBD | Pending |
-| ABOUT-02 | TBD | Pending |
-| ABOUT-03 | TBD | Pending |
-| TEST-01 | TBD | Pending |
-| TEST-02 | TBD | Pending |
-| CONT-01 | TBD | Pending |
-| CONT-02 | TBD | Pending |
-| COND-01 | TBD | Pending |
-| COMP-01 | TBD | Pending |
-| COMP-02 | TBD | Pending |
-| COMP-03 | TBD | Pending |
-| SOCL-01 | TBD | Pending |
-| TECH-01 | TBD | Pending |
-| TECH-02 | TBD | Pending |
-| TECH-03 | TBD | Pending |
-| TECH-04 | TBD | Pending |
+| HOME-01 | Phase 2 | Pending |
+| HOME-02 | Phase 2 | Pending |
+| HOME-03 | Phase 2 | Pending |
+| HOME-04 | Phase 2 | Pending |
+| HOME-05 | Phase 1 | Pending |
+| SERV-01 | Phase 3 | Pending |
+| SERV-02 | Phase 3 | Pending |
+| SERV-03 | Phase 3 | Pending |
+| SERV-04 | Phase 3 | Pending |
+| SERV-05 | Phase 3 | Pending |
+| SERV-06 | Phase 3 | Pending |
+| SERV-07 | Phase 3 | Pending |
+| SERV-08 | Phase 3 | Pending |
+| SERV-09 | Phase 3 | Pending |
+| SERV-10 | Phase 3 | Pending |
+| ABOUT-01 | Phase 2 | Pending |
+| ABOUT-02 | Phase 2 | Pending |
+| ABOUT-03 | Phase 2 | Pending |
+| TEST-01 | Phase 2 | Pending |
+| TEST-02 | Phase 2 | Pending |
+| CONT-01 | Phase 2 | Pending |
+| CONT-02 | Phase 2 | Pending |
+| COND-01 | Phase 3 | Pending |
+| COMP-01 | Phase 1 | Pending |
+| COMP-02 | Phase 1 | Pending |
+| COMP-03 | Phase 1 | Pending |
+| SOCL-01 | Phase 1 | Pending |
+| TECH-01 | Phase 4 | Pending |
+| TECH-02 | Phase 1 | Pending |
+| TECH-03 | Phase 4 | Pending |
+| TECH-04 | Phase 1 | Pending |
 
 **Coverage:**
 - v1 requirements: 31 total
-- Mapped to phases: 0
-- Unmapped: 31 (pending roadmap creation)
+- Mapped to phases: 31
+- Unmapped: 0
+
+**By Phase:**
+- Phase 1 (Foundation & Global Components): 7 requirements
+- Phase 2 (Homepage & Supporting Pages): 11 requirements
+- Phase 3 (Service Pages): 11 requirements
+- Phase 4 (Translation & SEO): 2 requirements
 
 ---
 *Requirements defined: 2026-02-03*
-*Last updated: 2026-02-03 after initial definition*
+*Last updated: 2026-02-03 after roadmap creation*
