@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <!-- Sueroterapia - IV Drip -->
+  <symbol id="icon-sueroterapia" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 8c-4 0-7 3-7 7v6c0 2 1 3 3 3h8c2 0 3-1 3-3v-6c0-4-3-7-7-7z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M32 24v4M32 28c0 2-1 4-1 6s1 4 1 6-1 4-1 6 1 4 1 6"/>
+    <circle cx="32" cy="56" r="3" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M28 12h8M30 16h4"/>
+    <circle cx="32" cy="14" r="1" fill="currentColor" opacity="0.5"/>
+  </symbol>
+
+  <!-- Terapia Neural - Neural Network -->
+  <symbol id="icon-neural" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="6" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="16" cy="16" r="4" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="48" cy="16" r="4" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="16" cy="48" r="4" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="48" cy="48" r="4" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="8" cy="32" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="56" cy="32" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M27 28l-7-8M37 28l7-8M27 36l-7 8M37 36l7 8M26 32h-15M38 32h15"/>
+    <circle cx="32" cy="32" r="2" fill="currentColor"/>
+  </symbol>
+
+  <!-- Campos Magneticos - Magnetic Field -->
+  <symbol id="icon-magnetico" viewBox="0 0 64 64">
+    <ellipse cx="32" cy="32" rx="24" ry="12" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 2"/>
+    <ellipse cx="32" cy="32" rx="16" ry="8" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <ellipse cx="32" cy="32" rx="8" ry="4" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="32" cy="32" r="3" fill="currentColor"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M32 8v8M32 48v8M8 32h8M48 32h8"/>
+    <path fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" d="M14 14l5 5M45 14l-5 5M14 50l5-5M45 50l-5-5"/>
+  </symbol>
+
+  <!-- Homeopatia - Natural Medicine -->
+  <symbol id="icon-homeopatia" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 8c-2 4-8 8-8 16 0 8 8 12 8 12s8-4 8-12c0-8-6-12-8-16z"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M32 20v16M28 28l4 4 4-4"/>
+    <circle cx="20" cy="48" r="6" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="32" cy="52" r="5" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="44" cy="48" r="6" fill="none" stroke="currentColor" stroke-width="2"/>
+    <circle cx="20" cy="48" r="2" fill="currentColor" opacity="0.3"/>
+    <circle cx="32" cy="52" r="2" fill="currentColor" opacity="0.3"/>
+    <circle cx="44" cy="48" r="2" fill="currentColor" opacity="0.3"/>
+  </symbol>
+
+  <!-- Acupuntura - Needles -->
+  <symbol id="icon-acupuntura" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M20 12l4 40"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M32 8l0 44"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M44 12l-4 40"/>
+    <circle cx="20" cy="12" r="3" fill="currentColor"/>
+    <circle cx="32" cy="8" r="3" fill="currentColor"/>
+    <circle cx="44" cy="12" r="3" fill="currentColor"/>
+    <ellipse cx="32" cy="56" rx="16" ry="4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-dasharray="3 2"/>
+  </symbol>
+
+  <!-- Fitoterapia - Herb/Plant -->
+  <symbol id="icon-fitoterapia" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 56V32"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 32c0-8-8-16-16-16 0 8 8 16 16 16z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 24c0-6 6-12 12-12 0 6-6 12-12 12z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 40c0-4-5-8-10-8 0 4 5 8 10 8z"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M20 24c4 4 8 6 12 8M40 16c-4 3-6 5-8 8M24 36c4 2 6 3 8 4"/>
+  </symbol>
+
+  <!-- Quiropractica - Spine -->
+  <symbol id="icon-quiropractica" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 8c-3 0-5 2-5 4s2 4 5 4 5-2 5-4-2-4-5-4z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 16c-4 0-6 2-6 5s2 5 6 5 6-2 6-5-2-5-6-5z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 26c-4 0-7 3-7 6s3 6 7 6 7-3 7-6-3-6-7-6z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 38c-4 0-6 2-6 5s2 5 6 5 6-2 6-5-2-5-6-5z"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 48c-3 0-5 2-5 4s2 4 5 4 5-2 5-4-2-4-5-4z"/>
+    <path fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" d="M24 12h-4M40 12h4M22 21h-4M42 21h4M20 32h-4M44 32h4M22 43h-4M42 43h4M24 52h-4M40 52h4"/>
+  </symbol>
+
+  <!-- Fisioterapia - Movement -->
+  <symbol id="icon-fisioterapia" viewBox="0 0 64 64">
+    <circle cx="32" cy="12" r="6" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M32 18v14"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 24l-12 8M32 24l12 8"/>
+    <path fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M32 32l-8 20M32 32l8 20"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M18 32l4-2M46 32l-4-2"/>
+    <ellipse cx="32" cy="56" rx="12" ry="3" fill="none" stroke="currentColor" stroke-width="1" stroke-dasharray="2 2" opacity="0.5"/>
+  </symbol>
+
+  <!-- Nutricion - Healthy Food -->
+  <symbol id="icon-nutricion" viewBox="0 0 64 64">
+    <ellipse cx="32" cy="44" rx="20" ry="12" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M16 44c0-8 16-24 16-24s16 16 16 24"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M32 20v-8M28 14l4 4 4-4"/>
+    <circle cx="24" cy="42" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="40" cy="42" r="3" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="48" r="2" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <path fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" d="M20 38c2 0 4 2 4 2M40 38c-2 0-4 2-4 2"/>
+  </symbol>
+
+  <!-- Farmacia - Pharmacy -->
+  <symbol id="icon-farmacia" viewBox="0 0 64 64">
+    <rect x="16" y="24" width="32" height="32" rx="4" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M24 24v-8a8 8 0 0116 0v8"/>
+    <path fill="currentColor" d="M28 36h8v4h-8z"/>
+    <path fill="currentColor" d="M30 34h4v8h-4z"/>
+    <circle cx="24" cy="48" r="2" fill="currentColor" opacity="0.3"/>
+    <circle cx="40" cy="48" r="2" fill="currentColor" opacity="0.3"/>
+  </symbol>
+
+  <!-- Generic Doctor/Team Avatar -->
+  <symbol id="icon-avatar" viewBox="0 0 64 64">
+    <circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <circle cx="32" cy="24" r="10" fill="none" stroke="currentColor" stroke-width="2"/>
+    <path fill="none" stroke="currentColor" stroke-width="2" d="M14 54c0-10 8-16 18-16s18 6 18 16"/>
+    <path fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" d="M26 22c0-2 2-4 6-4s6 2 6 4"/>
+  </symbol>
+
+  <!-- Leaf decoration -->
+  <symbol id="icon-leaf" viewBox="0 0 64 64">
+    <path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M32 56V28M32 28C32 16 20 8 8 12c4 12 12 20 24 16z"/>
+    <path fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" d="M16 20c6 1 12 4 16 8"/>
+  </symbol>
+
+  <!-- Heart-leaf (brand icon) -->
+  <symbol id="icon-brand" viewBox="0 0 64 64">
+    <circle cx="32" cy="12" r="6" fill="#7bc144"/>
+    <path d="M32 20c-12 0-20 8-20 20v4c0 4 2 6 4 7 4 2 8 3 16 3s12-1 16-3c2-1 4-3 4-7v-4c0-12-8-20-20-20z" fill="#0e4d64"/>
+    <path d="M32 26c-6 0-12 6-12 12v8c0 2 1 3 2 4 2 1 6 2 10 2s8-1 10-2c1-1 2-2 2-4v-8c0-6-6-12-12-12z" fill="#7bc144"/>
+  </symbol>
+</svg>

@@ -1,0 +1,17 @@
+# MCP configuration (contains API keys)
+.mcp.json
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
