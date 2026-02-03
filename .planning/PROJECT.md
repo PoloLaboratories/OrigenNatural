@@ -2,7 +2,7 @@
 
 ## What This Is
 
-A modern, bilingual (Spanish/English) WordPress website for Origen Natural IPS, an integrative medicine clinic in Bogotá, Colombia. The site educates visitors about natural and alternative therapies, builds trust through professional presentation and testimonials, and converts interest into WhatsApp appointment inquiries.
+A modern, bilingual (Spanish/English) custom-built static website for Origen Natural IPS, an integrative medicine clinic in Bogotá, Colombia. Hand-crafted HTML/CSS for unique design and optimal performance. The site educates visitors about natural and alternative therapies, builds trust through professional presentation and testimonials, and converts interest into WhatsApp appointment inquiries.
 
 ## Core Value
 
@@ -34,8 +34,9 @@ Visitors clearly understand what services Origen Natural offers and feel confide
 - E-commerce/online pharmacy — physical pharmacy only
 - Patient portal/login — not needed for v1
 - Video content/media hosting — text and images only
-- Custom theme development — will use WordPress theme with customization
+- Blog/CMS functionality — deferred to v2
 - Email marketing integration — defer to v2
+- WordPress or any CMS — using static HTML for v1
 
 ## Context
 
@@ -87,27 +88,27 @@ Migraine, Herniated Disc, Chronic Gastritis, Arthritis, Gastric Ulcer, Anxiety, 
 
 ## Constraints
 
-- **Platform**: WordPress CMS on GoDaddy hosting
-- **Build Method**: Browser automation via Chrome MCP — Claude interacts with WordPress admin directly
+- **Platform**: Custom static HTML/CSS/JS hosted on GoDaddy
+- **Build Method**: Hand-coded by Claude — unique design, no templates
 - **Brand**: Must use existing teal (#0e4d64) and green (#7bc144) color palette with established logo
-- **Language**: Full bilingual support (Spanish primary, English secondary)
+- **Language**: Full bilingual support (Spanish primary, English secondary) via separate HTML files or JS toggle
 - **CTA**: WhatsApp is the sole booking channel — no online scheduling system
 - **Content**: Spanish content is primary; English translations needed for all pages
-- **Technical skill**: Owner is not WordPress-experienced — site must be easy to update
-- **Stack** (from research): Astra theme + Elementor + TranslatePress + Rank Math + Click to Chat (all free versions, GoDaddy-compatible)
+- **Updates**: Content is mostly static; blog/CMS deferred to v2
+- **Stack**: Pure HTML5, CSS3 (with CSS variables for theming), vanilla JavaScript
 
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
-| WordPress CMS | Owner needs easy content updates, hosting already on GoDaddy | — Pending |
-| Browser automation build | Stay on GoDaddy + use Chrome MCP for direct WordPress admin control | — Pending |
-| Astra + Elementor stack | Free, lightweight, GoDaddy-compatible, beginner-friendly | — Pending |
-| TranslatePress for bilingual | Visual translation interface, free for 2 languages, Elementor-compatible | — Pending |
-| WhatsApp as sole CTA | Matches current business workflow, 98% WhatsApp penetration in Colombia | — Pending |
-| Bilingual (ES/EN) | Reach international patients while serving local market | — Pending |
-| Keep existing brand | Consistency with physical clinic and marketing materials | — Pending |
-| No e-commerce | Physical pharmacy model, not ready for online sales | — Pending |
+| Custom static HTML/CSS | Unique design priority, content rarely changes, faster performance | ✓ Confirmed |
+| No WordPress | Owner prioritizes unique design over easy editing; content is static for v1 | ✓ Confirmed |
+| Pure vanilla stack | HTML5 + CSS3 + vanilla JS — no frameworks, maximum performance | ✓ Confirmed |
+| WhatsApp as sole CTA | Matches current business workflow, 98% WhatsApp penetration in Colombia | ✓ Confirmed |
+| Bilingual via separate pages | /es/ and /en/ directories for clean SEO and simple implementation | — Pending |
+| Keep existing brand | Consistency with physical clinic and marketing materials | ✓ Confirmed |
+| Blog/CMS deferred to v2 | Static content for now, add dynamic features when needed | ✓ Confirmed |
+| GoDaddy hosting | Already have it, works fine for static files | ✓ Confirmed |
 
 ---
-*Last updated: 2026-02-03 after research phase*
+*Last updated: 2026-02-03 after pivot to static site*
