@@ -87,22 +87,27 @@ Migraine, Herniated Disc, Chronic Gastritis, Arthritis, Gastric Ulcer, Anxiety, 
 
 ## Constraints
 
-- **Platform**: WordPress CMS on GoDaddy hosting — owner needs guidance on WordPress usage
+- **Platform**: WordPress CMS on GoDaddy hosting
+- **Build Method**: Browser automation via Chrome MCP — Claude interacts with WordPress admin directly
 - **Brand**: Must use existing teal (#0e4d64) and green (#7bc144) color palette with established logo
 - **Language**: Full bilingual support (Spanish primary, English secondary)
 - **CTA**: WhatsApp is the sole booking channel — no online scheduling system
 - **Content**: Spanish content is primary; English translations needed for all pages
 - **Technical skill**: Owner is not WordPress-experienced — site must be easy to update
+- **Stack** (from research): Astra theme + Elementor + TranslatePress + Rank Math + Click to Chat (all free versions, GoDaddy-compatible)
 
 ## Key Decisions
 
 | Decision | Rationale | Outcome |
 |----------|-----------|---------|
 | WordPress CMS | Owner needs easy content updates, hosting already on GoDaddy | — Pending |
-| WhatsApp as sole CTA | Matches current business workflow, no scheduling system needed | — Pending |
+| Browser automation build | Stay on GoDaddy + use Chrome MCP for direct WordPress admin control | — Pending |
+| Astra + Elementor stack | Free, lightweight, GoDaddy-compatible, beginner-friendly | — Pending |
+| TranslatePress for bilingual | Visual translation interface, free for 2 languages, Elementor-compatible | — Pending |
+| WhatsApp as sole CTA | Matches current business workflow, 98% WhatsApp penetration in Colombia | — Pending |
 | Bilingual (ES/EN) | Reach international patients while serving local market | — Pending |
 | Keep existing brand | Consistency with physical clinic and marketing materials | — Pending |
 | No e-commerce | Physical pharmacy model, not ready for online sales | — Pending |
 
 ---
-*Last updated: 2026-02-03 after initialization*
+*Last updated: 2026-02-03 after research phase*
